@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+    <meta name="description" content=""/>
+    <meta name="author" content=""/>
+    <title>Projekt</title>
+    <link rel="icon" type="image/x-icon" href="assets/kp_icon.png"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Font Awesome icons (free version)-->
+    <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Varela+Round&subset=latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
+          rel="stylesheet"/>
+
+
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="css/styles.css" rel="stylesheet"/>
+</head>
+<body id="page-top">
+<!-- Navigation-->
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container px-4 px-lg-5">
+        <a class="navbar-brand" href="#page-top">Strona główna</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+                aria-label="Toggle navigation">
+            Menu
+            <i class="fas fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item"><a class="nav-link" href="#about">O mnie</a></li>
+                <li class="nav-item"><a class="nav-link" href="#projects">Portfolio</a></li>
+                <li class="nav-item"><a class="nav-link" href="#form_id">Kontakt</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<!-- Masthead-->
+<header class="masthead">
+    <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
+        <div class="d-flex justify-content-center">
+            <div class="text-center">
+                <h1 class="mx-auto my-0 text-uppercase">Kamil Tokarski</h1>
+                <h2 class="text-white-50 mx-auto mt-2 mb-5 text-uppercase">fotografia</h2>
+                <a class="btn btn-primary" href="#about">Zapraszam</a>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- About-->
+<section class="about-section text-center" id="about">
+    <div class="container px-4 px-lg-5">
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+            <div class="col-lg-8">
+                <h2 class="text-white mb-4">O mnie</h2>
+                <p class="text-white-80">
+                    Zajmuję się fotografią eventową, krajobrazową, a także motoryzacyjną.<br>
+                    Tworzę również
+                    <a href="https://www.youtube.com/@modcaro">kanał YouTube.</a>
+
+                </p>
+            </div>
+        </div>
+        <!--        <img class="img-fluid" src="assets/img/gallery/landscape/IMG_2167.jpg" alt="..."/>-->
+    </div>
+</section>
+<!-- Projects-->
+<section class="projects-section bg-light" id="projects">
+    <div class="container px-4 px-lg-5">
+        <!-- Featured Project Row-->
+        <div class="row gx-0 mb-4 mb-lg-5 align-items-center">
+            <div class="col-xl-8 col-lg-7"><a href="#project_categories"><img class="img-fluid mb-3 mb-lg-0"
+                                                                              src="assets/img/gallery/landscape/MNE/z2.jpg"
+                                                                              alt="picture1"/></a>
+            </div>
+            <div class="col-xl-4 col-lg-5">
+                <div class="featured-text text-center text-lg-left">
+                    <h4>Portfolio</h4>
+                    <p class="text-black-50 mb-0">Tu znajdziesz moje prace</p>
+                </div>
+            </div>
+        </div>
+        <div id="project_categories">
+            <!-- Project One Row-->
+            <div class="row gx-0 mb-5 mb-lg-0 justify-content-center" id="project1row" role="button"
+                 onclick="project_show('moto')">
+                <div class="col-lg-6"><img id="catmoto_but"
+                                           class="img-fluid" src="assets/img/gallery/moto/c1.JPG"
+                                           alt="cat1photo"/></div>
+                <div class="col-lg-6">
+                    <div class="bg-black text-center h-100 project">
+                        <div class="d-flex h-100">
+                            <div class="project-text w-100 my-auto text-center text-lg-left">
+                                <h4 class="text-white">Fotografia motoryzacyjna</h4>
+                                <p class="mb-0 text-white-50">Samochody, motocykle, szeroko pojęta motryzacja</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Project Two Row-->
+            <div class="row gx-0 mb-5 mb-lg-0 justify-content-center" role="button" onclick="project_show('landscape')">
+                <div class="col-lg-6"><img class="img-fluid"
+                                           src="assets/img/gallery/landscape/RO/baner_foot.JPG"
+                                           alt="..."/>
+                </div>
+                <div class="col-lg-6 order-lg-first">
+                    <div class="bg-black text-center h-100 project">
+                        <div class="d-flex h-100">
+                            <div class="project-text w-100 my-auto text-center text-lg-right">
+                                <h4 class="text-white">Fotografia krajobrazowa</h4>
+                                <p class="mb-0 text-white-50">Podróże, wycieczki, Polska i nie tylko</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Project Three Row-->
+            <div class="row gx-0 mb-5 mb-lg-0 justify-content-center" role="button" onclick="project_show('event')">
+                <div class="col-lg-6"><img class="img-fluid"
+                                           src="assets/img/gallery/events/FTK/FTK_12.jpg"
+                                           alt="cat1photo"/></div>
+                <div class="col-lg-6">
+                    <div class="bg-black text-center h-100 project">
+                        <div class="d-flex h-100">
+                            <div class="project-text w-100 my-auto text-center text-lg-left">
+                                <h4 class="text-white">Fotografia eventowa</h4>
+                                <p class="mb-0 text-white-50">Festiwale, koncerty, wydarzenia kulturalne</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Project Four Row-->
+            <div class="row gx-0 justify-content-center" role="button" onclick="project_show('city')">
+                <div class="col-lg-6"><img class="img-fluid"
+                                           src="assets/img/gallery/city/C20.jpg" alt="..."/>
+                </div>
+                <div class="col-lg-6 order-lg-first">
+                    <div class="bg-black text-center h-100 project">
+                        <div class="d-flex h-100">
+                            <div class="project-text w-100 my-auto text-center text-lg-right">
+                                <h4 class="text-white">Miasto</h4>
+                                <p class="mb-0 text-white-50">Street Photography</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- Form-->
+<section class="signup-section" id="form_id">
+    <div class="container px-4 px-lg-5">
+        <div class="row gx-4 gx-lg-5">
+            <div class="col-md-10 col-lg-8 mx-auto text-center" id="zgloszenia">
+                <i class="far fa-paper-plane fa-2x mb-4 text-white"></i>
+                <h2 class="text-white mb-5">Potrzebujesz zdjęć? Wypełnij formularz:</h2>
+                <form action="mailto:s101688@pollub.edu.pl" method="post" onsubmit="return check_form()">
+                    <div class="mb-4">
+                        <label for="inputName" class="form-label text-white">Imię:</label>
+                        <input type="text" required class="form-control" id="inputName"
+                               placeholder="Tutaj wpisz swoje imię">
+                        <div id="nameError" class="text-danger mt-1 fw-bold"></div>
+                    </div>
+                    <div class="mb-4">
+                        <label for="inputEmail" class="form-label text-white">Adres e-mail:</label>
+                        <input type="email" required class="form-control" id="inputEmail"
+                               placeholder="Podaj adres e-mail">
+                        <div id="emailError" class="text-danger mt-1 fw-bold"></div>
+                    </div>
+                    <div class="mb-4">
+                        <label for="phoneNumber" class="form-label text-white">Telefon kontaktowy:</label>
+                        <input type="tel" class="form-control" id="phoneNumber"
+                               placeholder="Opcjonalnie możesz podać numer telefonu">
+                        <div id="phoneError" class="text-danger mt-1 fw-bold"></div>
+                    </div>
+                    <div class="mb-4">
+                        <label for="inputCat" class="form-label text-white">Kategoria zamówienia:</label>
+                        <select class="form-select" id="inputCat">
+                            <option selected disabled>Wybierz rodzaj zdjęć</option>
+                            <option>Sesja motoryzacyjna</option>
+                            <option>Fotografia krajobrazowa</option>
+                            <option>Fotografia eventowa</option>
+                        </select>
+                        <div id="catError" class="text-danger mt-1 fw-bold"></div>
+                    </div>
+                    <div class="mb-4">
+                        <div class="text-white">Pora zdjeć:</div>
+                        <input class="form-check-input" type="checkbox" name="checkbox_daynight" value=""
+                               id="day_photo">
+                        <label class="form-check-label text-white me-5" for="day_photo">Zdjęcia w dzień</label>
+                        <input class="form-check-input" type="checkbox" name="checkbox_daynight" value=""
+                               id="night_photo">
+                        <label class="form-check-label text-white" for="night_photo">Zdjęcia w nocy</label>
+                        <div id="boxError" class="text-danger mt-1 fw-bold"></div>
+                    </div>
+                    <div class="mb-4">
+                        <div class="text-white">Zdjęcia na użytek:</div>
+                        <input class="form-check-input" type="radio" name="radio" id="priv" value="prywatny">
+                        <label class="form-check-label text-white me-5" for="priv">Prywatny</label>
+                        <input class="form-check-input" type="radio" name="radio" id="pub" value="komercyjny">
+                        <label class="form-check-label text-white" for="pub">Komercyjny</label>
+                        <div id="radioError" class="text-danger mt-1 fw-bold"></div>
+                    </div>
+                    <div class="form-check d-flex align-items-center mb-5">
+                        <input type="checkbox" class="form-check-input me-3" required id="buttonCheck">
+                        <label class="form-check-label text-white mt-2" for="buttonCheck">Zgadzam się na przesłanie
+                            moich danych</label>
+                    </div>
+                    <button type="submit" class="btn btn-primary me-2">wyŚlij</button>
+                    <button type="reset" class="btn btn-primary me-2">Reset</button>
+                    <button class="btn btn-primary" onclick="show_storage()">Wyświetl zapisane</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Socials-->
+<section class="contact-section bg-black">
+    <div class="container px-4 px-lg-5">
+        <div class="social d-flex justify-content-center">
+            <a class="mx-2" target="_blank" href="https://www.youtube.com/@modcaro"><i class="fab fa-youtube"></i></a>
+            <a class="mx-2" target="_blank" href="https://www.facebook.com/kamixphotography/"><i
+                    class="fab fa-facebook-f"></i></a>
+            <a class="mx-2" target="_blank" href="https://www.instagram.com/kamix_photography/"><i
+                    class="fab fa-instagram"></i></a>
+        </div>
+    </div>
+</section>
+
+<!-- Footer-->
+<footer class="footer bg-black small text-center text-white-50">
+    <div class="container px-4 px-lg-5">Copyright &copy; Kamil Tokarski 2025</div>
+</footer>
+
+<!-- Bootstrap core JS-->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+<!-- Core theme JS-->
+<script src="js/scripts.js"></script>
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+<!-- * *                               SB Forms JS                               * *-->
+<!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+<script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+</body>
+</html>
