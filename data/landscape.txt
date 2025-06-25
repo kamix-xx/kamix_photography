@@ -1,0 +1,59 @@
+<div class="text-center">
+    <button onclick="project_show('default')" id="go_back_cat" class="btn btn-primary mb-4 mt-2">Wróć do kategorii
+    </button>
+</div>
+<h2 class="text-center mb-4">Fotografia krajobrazowa</h2>
+<!-- Project One Row-->
+<div class="row gx-0 mb-5 mb-lg-0 justify-content-center" id="project1row" role="button" onclick="project_show('poland')">
+    <div class="col-lg-6"><img id="catmoto_but"  class="img-fluid"
+                               src="assets/img/gallery/landscape/PL/7.jpg"
+                               alt="PLphoto"/></div>
+    <div class="col-lg-6">
+        <div class="bg-black text-center h-100 project">
+            <div class="d-flex h-100">
+                <div class="project-text w-100 my-auto text-center text-lg-left">
+                    <h4 class="text-white">Polska</h4>
+                    <p class="mb-0 text-white-50">Piękne polskie krajobrazy w obiektywie</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Project Three Row-->
+<div class="row gx-0 justify-content-center" role="button" onclick="project_show('montenegro')">
+    <div class="col-lg-6"><img class="img-fluid"
+                               src="assets/img/gallery/landscape/MNE/z3.jpg" alt="..."/>
+    </div>
+    <div class="col-lg-6 order-lg-first">
+        <div class="bg-black text-center h-100 project">
+            <div class="d-flex h-100">
+                <div class="project-text w-100 my-auto text-center text-lg-right">
+                    <h4 class="text-white">Czarnogóra</h4>
+                    <p class="mb-0 text-white-50">Bałkany ciąg dalszy</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Project Four Row-->
+<div class="row gx-0 mb-5 mb-lg-0 justify-content-center" role="button" onclick="project_show('croatia')">
+    <div class="col-lg-6"><img class="img-fluid"
+                               src="assets/img/gallery/landscape/CR/CR6.png"
+                               alt="cr1"/></div>
+    <div class="col-lg-6">
+        <div class="bg-black text-center h-100 project">
+            <div class="d-flex h-100">
+                <div class="project-text w-100 my-auto text-center text-lg-left">
+                    <h4 class="text-white">Chorwacja</h4>
+                    <p class="mb-0 text-white-50">Góry i morze w jednym miejscu</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="text-center">
+    <a class="btn btn-primary me-3" href="#project_categories">Na górę</a>
+    <button onclick="project_show('default')" id="go_back_cat2" class="btn btn-primary mb-5 mt-5">Wróć do kategorii
+    </button>
+</div>

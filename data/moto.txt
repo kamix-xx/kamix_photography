@@ -1,0 +1,60 @@
+<div class="text-center">
+    <button onclick="project_show('default')" id="go_back_cat" class="btn btn-primary mb-4 mt-2">Wróć do kategorii
+    </button>
+</div>
+<h2 class="text-center mb-4">Fotografia motoryzacyjna</h2>
+<!-- Project One Row-->
+<div class="row gx-0 mb-5 mb-lg-0 justify-content-center" id="project1row" role="button" onclick="project_show('car_session')">
+    <div class="col-lg-6"><img id="catmoto_but" class="img-fluid" src="assets/img/gallery/moto/c2.JPG"
+                               alt="photo"/></div>
+    <div class="col-lg-6  order-lg-first">
+        <div class="bg-black text-center h-100 project">
+            <div class="d-flex h-100">
+                <div class="project-text w-100 my-auto text-center text-lg-left">
+                    <h4 class="text-white">Sesje</h4>
+                    <p class="mb-0 text-white-50">Sesje samochodowe, na zdjęciach: Skoda</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Project Two Row-->
+<div class="row gx-0 mb-5 mb-lg-0 justify-content-center" role="button" onclick="project_show('spot')">
+    <div class="col-lg-6"><img class="img-fluid" src="assets/img/gallery/events/Spot/S_03.jpg"
+                               alt="photo"/></div>
+    <div class="col-lg-6">
+        <div class="bg-black text-center h-100 project">
+            <div class="d-flex h-100">
+                <div class="project-text w-100 my-auto text-center text-lg-left">
+                    <h4 class="text-white">Czwartkowe spoty pod Areną</h4>
+                    <p class="mb-0 text-white-50">Każdy czwartkowy wieczór po areną to małe święto motoryzacji w
+                        Lublinie</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Project Three Row-->
+<div class="row gx-0 mb-5 mb-lg-0 justify-content-center" role="button" onclick="project_show('moto_session25')">
+    <div class="col-lg-6"><img class="img-fluid"
+                               src="assets/img/gallery/events/moto_session25/MS25_10.jpg"
+                               alt="photo"/>
+    </div>
+    <div class="col-lg-6   order-lg-first">
+        <div class="bg-black text-center h-100 project">
+            <div class="d-flex h-100">
+                <div class="project-text w-100 my-auto text-center text-lg-right">
+                    <h4 class="text-white">Moto Session 2025</h4>
+                    <p class="mb-0 text-white-50">Największa impreza motoryzacyjna we wschodniej Polsce</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="text-center">
+    <a class="btn btn-primary me-3" href="#project_categories">Na górę</a>
+    <button onclick="project_show('default')" id="go_back_cat2" class="btn btn-primary mb-5 mt-5">Wróć do kategorii
+    </button>
+</div>
+

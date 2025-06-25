@@ -1,0 +1,122 @@
+<div class="text-center">
+    <button onclick="project_show('default')" id="go_back_cat" class="btn btn-primary mb-5 mt-2 me-3">Wróć do kategorii
+    </button>
+    <button onclick="project_show('event')" id="e1" class="btn btn-primary mb-5 mt-2">Fotografia eventowa
+    </button>
+</div>
+<h2 class="text-center mb-4">Obchody Święta Niepodległości w Lublinie</h2>
+<!-- Row 1 -->
+<div class="row mx-0" id="bootstrap-image-gallery-row-1">
+    <!-- Column 1 -->
+    <div class="col-lg-8 col-md-12 mb-4 mb-lg-0 px-2  ">
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="assets/img/gallery/events/11_listopada/EL_07.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zooma" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zooma" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="assets/img/gallery/events/11_listopada/EL_07.jpg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+    <!-- Column 2 -->
+    <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 px-2  ">
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="assets/img/gallery/events/11_listopada/EL_09.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoomb" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoomb" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="assets/img/gallery/events/11_listopada/EL_09.jpg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="assets/img/gallery/events/11_listopada/EL_04.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoomc" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoomc" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="assets/img/gallery/events/11_listopada/EL_04.jpg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
+
+<!-- Row 2 -->
+<div class="row mx-0" id="bootstrap-image-gallery-row-2">
+    <!-- Column 1 -->
+    <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 px-2  ">
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="assets/img/gallery/events/11_listopada/EL_05.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoom1" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoom1" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="assets/img/gallery/events/11_listopada/EL_05.jpg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="assets/img/gallery/events/11_listopada/EL_01.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoom2" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoom2" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="assets/img/gallery/events/11_listopada/EL_01.jpg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+    <!-- Column 2 -->
+    <div class="col-lg-8 col-md-12 mb-4 mb-lg-0 px-2  ">
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="assets/img/gallery/events/11_listopada/EL_08.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoom3" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoom3" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="assets/img/gallery/events/11_listopada/EL_08.jpg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+
+</div>
+<div class="text-center">
+    <a class="btn btn-primary me-3" href="#project_categories">Na górę</a>
+    <button onclick="project_show('default')" id="go_back_cat2" class="btn btn-primary mb-5 mt-5">Wróć do kategorii
+    </button>
+</div>

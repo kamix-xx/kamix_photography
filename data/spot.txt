@@ -1,0 +1,170 @@
+<div class="text-center">
+    <button onclick="project_show('default')" id="go_back_cat" class="btn btn-primary mb-5 me-3 mt-2">Wróć do kategorii
+    </button>
+    <button onclick="project_show('moto')" id="m1" class="btn btn-primary mb-5 me-3 mt-2">Fotografia motoryzacyjna
+    </button>
+    <button onclick="project_show('event')" id="e1" class="btn btn-primary mb-5 mt-2">Fotografia eventowa
+    </button>
+</div>
+<h2 class="text-center mb-4">Czwartkowe spoty pod areną</h2>
+
+<!-- Row 1 -->
+<div class="row mx-0" id="bootstrap-image-gallery-row-1">
+    <!-- Column 1 -->
+    <div class="col-lg-8 col-md-12 mb-4 mb-lg-0 px-2  ">
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="assets/img/gallery/events/spot/S_11.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zooma" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zooma" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="assets/img/gallery/events/spot/S_11.jpg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+    <!-- Column 2 -->
+    <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 px-2  ">
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="assets/img/gallery/events/spot/S_05.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoomb" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoomb" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="assets/img/gallery/events/spot/S_05.jpg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="assets/img/gallery/events/spot/S_10.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoomc" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoomc" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="assets/img/gallery/events/spot/S_10.jpg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
+
+<!-- Row 2 -->
+<div class="row mx-0" id="bootstrap-image-gallery-ro-2">
+
+    <!-- Column 1 -->
+    <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 px-2  ">
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="assets/img/gallery/events/spot/S_08.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoomC1" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoomC1" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="assets/img/gallery/events/spot/S_08.jpg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="assets/img/gallery/events/spot/S_07.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoomC2" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoomC2" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-md">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="assets/img/gallery/events/spot/S_07.jpg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+
+    <!-- Column 2 -->
+    <div class="col-lg-4 mb-4 mb-lg-0 px-2">
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="assets/img/gallery/events/spot/S_01.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoomC4" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoomC4" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-md">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="assets/img/gallery/events/spot/S_01.jpg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="assets/img/gallery/events/spot/S_06.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoomC5" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoomC5" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="assets/img/gallery/events/spot/S_06.jpg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+
+    <!-- Column 3 -->
+    <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 px-2  ">
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="assets/img/gallery/events/spot/S_04.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoomC7" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoomC7" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="assets/img/gallery/events/spot/S_04.jpg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="assets/img/gallery/events/spot/S_09.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoomC8" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoomC8" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-md">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="assets/img/gallery/events/spot/S_09.jpg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>

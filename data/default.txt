@@ -1,0 +1,65 @@
+<!-- Project One Row-->
+<div class="row gx-0 mb-5 mb-lg-0 justify-content-center" id="project1row" role="button" onclick="project_show('moto')">
+    <div class="col-lg-6"><img id="catmoto_but"
+                               class="img-fluid" src="assets/img/gallery/moto/c1.JPG"
+                               alt="cat1photo"/></div>
+    <div class="col-lg-6">
+        <div class="bg-black text-center h-100 project">
+            <div class="d-flex h-100">
+                <div class="project-text w-100 my-auto text-center text-lg-left">
+                    <h4 class="text-white">Fotografia motoryzacyjna</h4>
+                    <p class="mb-0 text-white-50">Samochody, motocykle, szeroko pojęta motryzacja</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Project Two Row-->
+<div class="row gx-0 mb-5 mb-lg-0 justify-content-center" role="button" onclick="project_show('landscape')">
+    <div class="col-lg-6"><img class="img-fluid"
+                               src="assets/img/gallery/landscape/RO/baner_foot.JPG"
+                               alt="..."/>
+    </div>
+    <div class="col-lg-6 order-lg-first">
+        <div class="bg-black text-center h-100 project">
+            <div class="d-flex h-100">
+                <div class="project-text w-100 my-auto text-center text-lg-right">
+                    <h4 class="text-white">Fotografia krajobrazowa</h4>
+                    <p class="mb-0 text-white-50">Podróże, wycieczki, Polska i nie tylko</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Project Three Row-->
+<div class="row gx-0 mb-5 mb-lg-0 justify-content-center" role="button" onclick="project_show('event')">
+    <div class="col-lg-6"><img class="img-fluid"
+                               src="assets/img/gallery/events/FTK/FTK_12.jpg"
+                               alt="cat1photo"/></div>
+    <div class="col-lg-6">
+        <div class="bg-black text-center h-100 project">
+            <div class="d-flex h-100">
+                <div class="project-text w-100 my-auto text-center text-lg-left">
+                    <h4 class="text-white">Fotografia eventowa</h4>
+                    <p class="mb-0 text-white-50">Festiwale, koncerty, wydarzenia kulturalne</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Project Four Row-->
+<div class="row gx-0 justify-content-center" role="button" onclick="project_show('city')">
+    <div class="col-lg-6"><img class="img-fluid"
+                               src="assets/img/gallery/city/C20.jpg" alt="..."/>
+    </div>
+    <div class="col-lg-6 order-lg-first">
+        <div class="bg-black text-center h-100 project">
+            <div class="d-flex h-100">
+                <div class="project-text w-100 my-auto text-center text-lg-right">
+                    <h4 class="text-white">Miasto</h4>
+                    <p class="mb-0 text-white-50">Street Photography</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
