@@ -11,14 +11,14 @@
     <div class="col-lg-8 col-md-12 mb-4 mb-lg-0 px-2  ">
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="https://private-user-images.githubusercontent.com/201566625/468173322-f082708e-f16a-4d8f-935f-801d8c26089c.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI4NjQzOTgsIm5iZiI6MTc1Mjg2NDA5OCwicGF0aCI6Ii8yMDE1NjY2MjUvNDY4MTczMzIyLWYwODI3MDhlLWYxNmEtNGQ4Zi05MzVmLTgwMWQ4YzI2MDg5Yy5KUEc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxOFQxODQxMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMGU3MzFjZWNkMWE1NzhkMGRlNzAyZDgzYzI4YTgzNWRlN2ZhNDk2YzRlNzU2OWU2OTg4Y2Y2NzkzNjAyMjcwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.aOMhq--HMdpS1umz5poq2H8KP-fwj9m98Kek_emZ-V8" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://imgur.com/gallery/mne-sbHNTZw#SDzvHwH" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zooma" alt="photo" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zooma" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-xl">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="https://private-user-images.githubusercontent.com/201566625/468173322-f082708e-f16a-4d8f-935f-801d8c26089c.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI4NjQzOTgsIm5iZiI6MTc1Mjg2NDA5OCwicGF0aCI6Ii8yMDE1NjY2MjUvNDY4MTczMzIyLWYwODI3MDhlLWYxNmEtNGQ4Zi05MzVmLTgwMWQ4YzI2MDg5Yy5KUEc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxOFQxODQxMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMGU3MzFjZWNkMWE1NzhkMGRlNzAyZDgzYzI4YTgzNWRlN2ZhNDk2YzRlNzU2OWU2OTg4Y2Y2NzkzNjAyMjcwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.aOMhq--HMdpS1umz5poq2H8KP-fwj9m98Kek_emZ-V8" class="img-fluid w-100" alt="">
+                            <img src="https://imgur.com/gallery/mne-sbHNTZw#SDzvHwH" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
