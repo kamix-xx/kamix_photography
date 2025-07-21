@@ -11,31 +11,14 @@
     <div class="col-lg-8 col-md-12 mb-4 mb-lg-0 px-2  ">
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/events/FTK/FTK_16.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/aFBrEaj.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zooma" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zooma" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-xl">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/events/FTK/FTK_16.jpg" class="img-fluid w-100" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </a>
-    </div>
-    <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 px-2  ">
-        <a class="lg-item">
-            <!-- Miniaturka -->
-            <img src="assets/img/gallery/events/FTK/FTK_21.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
-                 data-bs-target="#zoomb" alt="" style="cursor:pointer">
-            <!-- Zdjęcie-->
-            <div class="modal fade" id="zoomb" tabindex="-1" aria-hidden="true">
-                <div class="modal-dialog modal-dialog-centered modal-md">
-                    <div class="modal-content">
-                        <div class="modal-body p-0">
-                            <img src="assets/img/gallery/events/FTK/FTK_21.jpg" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/aFBrEaj.jpeg" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -43,6 +26,23 @@
         </a>
     </div>
     <!-- Column 2 -->
+    <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 px-2  ">
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="https://i.imgur.com/3s8mtQx.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoomb" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoomb" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-md">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="https://i.imgur.com/3s8mtQx.jpeg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div
 </div>
 
 <!-- Row 2 -->
@@ -51,14 +51,14 @@
     <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 px-2  ">
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/events/FTK/FTK_04.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/6S12VMl.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoomC1" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoomC1" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-xl">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/events/FTK/FTK_04.jpg" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/6S12VMl.jpeg" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -66,14 +66,14 @@
         </a>
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/events/FTK/FTK_06.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/mIXj5RN.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoomC2" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoomC2" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-md">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/events/FTK/FTK_06.jpg" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/mIXj5RN.jpeg" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -81,14 +81,14 @@
         </a>
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/events/FTK/FTK_11.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/m7Nlfqc.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoomC3" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoomC3" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-xl">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/events/FTK/FTK_11.jpg" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/m7Nlfqc.jpeg" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -100,14 +100,14 @@
     <div class="col-lg-4 mb-4 mb-lg-0 px-2">
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/events/FTK/FTK_09.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/Bp1kTdJ.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoomC4" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoomC4" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-md">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/events/FTK/FTK_09.jpg" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/Bp1kTdJ.jpeg" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -115,14 +115,14 @@
         </a>
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/events/FTK/FTK_14.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/zbPgnZ8.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoomC5" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoomC5" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-xl">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/events/FTK/FTK_14.jpg" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/zbPgnZ8.jpeg" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -130,14 +130,14 @@
         </a>
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/events/FTK/FTK_10.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/Wesir12.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoomC6" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoomC6" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-xl">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/events/FTK/FTK_10.jpg" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/Wesir12.jpeg" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -149,14 +149,14 @@
     <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 px-2  ">
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/events/FTK/FTK_15.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/BkZ6Kzt.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoomC7" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoomC7" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-xl">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/events/FTK/FTK_15.jpg" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/BkZ6Kzt.jpeg" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -164,14 +164,14 @@
         </a>
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/events/FTK/FTK_13.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/kTC8uZU.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoomC8" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoomC8" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-md">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/events/FTK/FTK_13.jpg" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/kTC8uZU.jpeg" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -179,14 +179,14 @@
         </a>
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/events/FTK/FTK_01.jpg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/kIPFlZ4.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoomC9" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoomC9" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-xl">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/events/FTK/FTK_01.jpg" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/kIPFlZ4.jpeg" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
