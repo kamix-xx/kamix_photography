@@ -12,14 +12,14 @@
     <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 px-2  ">
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/landscape/CR/CR5.png" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/7HsXX3Y.png" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoom1" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoom1" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-xl">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/landscape/CR/CR5.png" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/7HsXX3Y.png" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -27,14 +27,14 @@
         </a>
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/landscape/CR/CR3.png" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/aRjGsyB.png" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoom2" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoom2" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-xl">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/landscape/CR/CR3.png" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/aRjGsyB.png" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -45,14 +45,14 @@
     <div class="col-lg-8 col-md-12 mb-4 mb-lg-0 px-2  ">
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/landscape/CR/CR4.png" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/uofqTTS.png" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoom3" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoom3" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-xl">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/landscape/CR/CR4.png" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/uofqTTS.png" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -67,14 +67,14 @@
     <div class="col-lg-8 col-md-12 mb-4 mb-lg-0 px-2  ">
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/landscape/CR/CR6.png" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/yFZosSW.png" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zooma" alt="photo" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zooma" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-xl">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/landscape/CR/CR6.png" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/yFZosSW.png" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -85,14 +85,14 @@
     <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 px-2  ">
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/landscape/CR/CR7.png" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/nbUz6Xf.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoomb" alt="photo" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoomb" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-xl">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/landscape/CR/CR7.png" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/nbUz6Xf.jpeg" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -100,14 +100,14 @@
         </a>
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/landscape/CR/CR8.png" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/zgAwMbj.png" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoomc" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoomc" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-xl">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/landscape/CR/CR8.png" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/zgAwMbj.png" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
