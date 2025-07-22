@@ -1,7 +1,13 @@
 <div class="text-center">
-    <button onclick="project_show('default')" id="go_back_cat" class="btn btn-primary mb-5 me-3 mt-2">Wróć do kategorii
+    <button onclick="project_show('default')" id="go_back_cat" class="btn btn-primary mb-5 mt-2 me-3">Kategorie
     </button>
-    <button onclick="project_show('moto')" id="m1" class="btn btn-primary mb-5 me-3 mt-2">Fotografia motoryzacyjna
+    <button onclick="project_show('event')" id="e1" class="btn btn-secondary mb-5 mt-2">Wydarzenia
+    </button>
+    <button onclick="project_show('moto')" id="m1" class="btn btn-info mb-5 mt-2">Motoryzacja
+    </button>
+    <button onclick="project_show('landscape')" id="l1" class="btn btn-secondary mb-5 mt-2">Krajobrazy
+    </button>
+    <button onclick="project_show('city')" id="c1" class="btn btn-secondary mb-5 mt-2">Miasto
     </button>
 </div>
 <h2 class="text-center mb-4">Sesje</h2>
@@ -12,14 +18,14 @@
     <div class="col-lg-8 col-md-12 mb-4 mb-lg-0 px-2  ">
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/moto/c4.png" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/MnS3xyD.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zooma" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zooma" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-xl">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/moto/c4.png" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/MnS3xyD.jpeg" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -30,14 +36,14 @@
     <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 px-2  ">
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/moto/c6.png" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/rL5OocV.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoomb" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoomb" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-xl">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/moto/c6.png" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/rL5OocV.jpeg" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -45,14 +51,14 @@
         </a>
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/moto/c3.JPG" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/4jgiPLa.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoomc" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoomc" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-xl">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/moto/c3.JPG" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/4jgiPLa.jpeg" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -68,14 +74,14 @@
     <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 px-2  ">
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/moto/c9.png" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/9QA1QsV.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoomC1" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoomC1" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-xl">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/moto/c9.png" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/9QA1QsV.jpeg" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -83,14 +89,14 @@
         </a>
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/moto/c11.png" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/TiOO4DS.png" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoomC2" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoomC2" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-md">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/moto/c11.png" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/TiOO4DS.png" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -102,14 +108,14 @@
     <div class="col-lg-4 mb-4 mb-lg-0 px-2">
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/moto/c8.png" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/LuZslT1.png" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoomC4" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoomC4" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-md">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/moto/c8.png" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/LuZslT1.png" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -117,14 +123,14 @@
         </a>
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/moto/c12.png" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/EzKpfFB.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoomC5" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoomC5" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-xl">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/moto/c12.png" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/EzKpfFB.jpeg" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -136,14 +142,14 @@
     <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 px-2  ">
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/moto/c5.JPG" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/fmrAZ5p.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoomC7" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoomC7" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-xl">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/moto/c5.JPG" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/fmrAZ5p.jpeg" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
@@ -151,18 +157,23 @@
         </a>
         <a class="lg-item">
             <!-- Miniaturka -->
-            <img src="assets/img/gallery/moto/c13.png" class="img-thumbnail mb-3" data-bs-toggle="modal"
+            <img src="https://i.imgur.com/hC7e3c1.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
                  data-bs-target="#zoomC8" alt="" style="cursor:pointer">
             <!-- Zdjęcie-->
             <div class="modal fade" id="zoomC8" tabindex="-1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-md">
                     <div class="modal-content">
                         <div class="modal-body p-0">
-                            <img src="assets/img/gallery/moto/c13.png" class="img-fluid w-100" alt="">
+                            <img src="https://i.imgur.com/hC7e3c1.jpeg" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                 </div>
             </div>
         </a>
     </div>
+</div>
+<div class="text-center">
+    <a class="btn btn-primary me-3" href="#project_categories">Na górę</a>
+    <button onclick="project_show('default')" id="go_back_cat2" class="btn btn-primary mb-5 mt-5">Kategorie
+    </button>
 </div>
