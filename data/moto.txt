@@ -5,7 +5,7 @@
 <h2 class="text-center mb-4">Fotografia motoryzacyjna</h2>
 <!-- Project One Row-->
 <div class="row gx-0 mb-5 mb-lg-0 justify-content-center" id="project1row" role="button" onclick="project_show('car_session')">
-    <div class="col-lg-6"><img id="catmoto_but" class="img-fluid" src="assets/img/gallery/moto/c2.JPG"
+    <div class="col-lg-6"><img id="catmoto_but" class="img-fluid" src="https://i.imgur.com/mBXQ5Qt.jpeg"
                                alt="photo"/></div>
     <div class="col-lg-6  order-lg-first">
         <div class="bg-black text-center h-100 project">
@@ -21,7 +21,7 @@
 
 <!-- Project Two Row-->
 <div class="row gx-0 mb-5 mb-lg-0 justify-content-center" role="button" onclick="project_show('spot')">
-    <div class="col-lg-6"><img class="img-fluid" src="assets/img/gallery/events/Spot/S_03.jpg"
+    <div class="col-lg-6"><img class="img-fluid" src="https://i.imgur.com/5E4xMIQ.jpeg"
                                alt="photo"/></div>
     <div class="col-lg-6">
         <div class="bg-black text-center h-100 project">
@@ -38,7 +38,7 @@
 <!-- Project Three Row-->
 <div class="row gx-0 mb-5 mb-lg-0 justify-content-center" role="button" onclick="project_show('moto_session25')">
     <div class="col-lg-6"><img class="img-fluid"
-                               src="assets/img/gallery/events/moto_session25/MS25_10.jpg"
+                               src="https://i.imgur.com/85RHAu2.jpeg"
                                alt="photo"/>
     </div>
     <div class="col-lg-6   order-lg-first">
