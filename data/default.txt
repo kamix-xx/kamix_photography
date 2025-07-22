@@ -1,7 +1,8 @@
 <!-- Project One Row-->
-<div class="row gx-0 mb-5 mb-lg-0 justify-content-center" id="project1row" role="button" onclick="project_show('moto')">
+<div class="row gx-0 mb-5 mb-lg-0 justify-content-center" id="project1row" role="button"
+     onclick="project_show('moto')">
     <div class="col-lg-6"><img id="catmoto_but"
-                               class="img-fluid" src="assets/img/gallery/moto/c1.JPG"
+                               class="img-fluid" src="https://i.imgur.com/wPhuUwS.jpeg"
                                alt="cat1photo"/></div>
     <div class="col-lg-6">
         <div class="bg-black text-center h-100 project">
@@ -17,8 +18,8 @@
 <!-- Project Two Row-->
 <div class="row gx-0 mb-5 mb-lg-0 justify-content-center" role="button" onclick="project_show('landscape')">
     <div class="col-lg-6"><img class="img-fluid"
-                               src="assets/img/gallery/landscape/RO/baner_foot.JPG"
-                               alt="..."/>
+                               src="https://i.imgur.com/UqGTPhg.jpeg"
+                               alt="cat_landscape_photo"/>
     </div>
     <div class="col-lg-6 order-lg-first">
         <div class="bg-black text-center h-100 project">
@@ -34,8 +35,8 @@
 <!-- Project Three Row-->
 <div class="row gx-0 mb-5 mb-lg-0 justify-content-center" role="button" onclick="project_show('event')">
     <div class="col-lg-6"><img class="img-fluid"
-                               src="assets/img/gallery/events/FTK/FTK_12.jpg"
-                               alt="cat1photo"/></div>
+                               src="https://i.imgur.com/rLBxYsD.jpeg"
+                               alt="cat_event_photo"/></div>
     <div class="col-lg-6">
         <div class="bg-black text-center h-100 project">
             <div class="d-flex h-100">
@@ -50,7 +51,7 @@
 <!-- Project Four Row-->
 <div class="row gx-0 justify-content-center" role="button" onclick="project_show('city')">
     <div class="col-lg-6"><img class="img-fluid"
-                               src="assets/img/gallery/city/C20.jpg" alt="..."/>
+                               src="https://i.imgur.com/zvvM5Bx.jpeg" alt="cat_city_photo"/>
     </div>
     <div class="col-lg-6 order-lg-first">
         <div class="bg-black text-center h-100 project">
