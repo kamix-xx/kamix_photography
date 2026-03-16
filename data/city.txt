@@ -1,0 +1,167 @@
+<div class="text-center">
+    <button onclick="project_show('default')" id="go_back_cat" class="btn btn-primary mb-5 mt-2 me-3">Kategorie
+    </button>
+    <button onclick="project_show('event')" id="e1" class="btn btn-secondary mb-5 mt-2">Wydarzenia
+    </button>
+    <button onclick="project_show('moto')" id="m1" class="btn btn-secondary mb-5 mt-2">Motoryzacja
+    </button>
+    <button onclick="project_show('landscape')" id="l1" class="btn btn-secondary mb-5 mt-2">Krajobrazy
+    </button>
+    <button onclick="project_show('city')" id="c1" class="btn btn-info mb-5 mt-2">Miasto
+    </button>
+</div>
+<h2 class="text-center mb-4">Miasto</h2>
+<div class="row mx-0" id="bootstrap-image-gallery">
+
+    <!-- Column 1 -->
+    <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 px-2  ">
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="https://i.imgur.com/2zuS3lQ.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoomC1" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoomC1" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="https://i.imgur.com/2zuS3lQ.jpeg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="https://i.imgur.com/esaf5sP.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoomC2" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoomC2" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-md">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="https://i.imgur.com/esaf5sP.jpeg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="https://i.imgur.com/1eOIRoB.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoomC3" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoomC3" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="https://i.imgur.com/1eOIRoB.jpeg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+
+    <!-- Column 2 -->
+    <div class="col-lg-4 mb-4 mb-lg-0 px-2">
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="https://i.imgur.com/tIjW6VJ.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoomC4" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoomC4" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-md">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="https://i.imgur.com/tIjW6VJ.jpeg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="https://i.imgur.com/wcF068w.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoomC5" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoomC5" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="https://i.imgur.com/wcF068w.jpeg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="https://i.imgur.com/ZWDt2rL.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoomC6" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoomC6" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="https://i.imgur.com/ZWDt2rL.jpeg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+
+    <!-- Column 3 -->
+    <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 px-2  ">
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="https://i.imgur.com/KLqckZX.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoomC7" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoomC7" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="https://i.imgur.com/KLqckZX.jpeg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="https://i.imgur.com/xD3IOH4.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoomC8" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoomC8" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-md">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="https://i.imgur.com/xD3IOH4.jpeg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+        <a class="lg-item">
+            <!-- Miniaturka -->
+            <img src="https://i.imgur.com/8Amnf0j.jpeg" class="img-thumbnail mb-3" data-bs-toggle="modal"
+                 data-bs-target="#zoomC9" alt="" style="cursor:pointer">
+            <!-- Zdjęcie-->
+            <div class="modal fade" id="zoomC9" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <img src="https://i.imgur.com/8Amnf0j.jpeg" class="img-fluid w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
+<div class="text-center">
+    <a class="btn btn-primary me-3" href="#project_categories">Na górę</a>
+    <button onclick="project_show('default')" id="go_back_cat2" class="btn btn-primary mb-5 mt-5">Kategorie
+    </button>
+</div>

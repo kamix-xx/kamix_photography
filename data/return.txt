@@ -1,0 +1,58 @@
+<i class="far fa-paper-plane fa-2x mb-4 text-white"></i>
+<h2 class="text-white mb-5">Potrzebujesz zdjęć? Wypełnij formularz:</h2>
+<form action="mailto:s101688@pollub.edu.pl" method="post" onsubmit="return check_form()">
+    <div class="mb-4">
+        <label for="inputName" class="form-label text-white">Imię:</label>
+        <input type="text" required class="form-control" id="inputName"
+               placeholder="Tutaj wpisz swoje imię">
+        <div id="nameError" class="text-danger mt-1 fw-bold"></div>
+    </div>
+    <div class="mb-4">
+        <label for="inputEmail" class="form-label text-white">Adres e-mail:</label>
+        <input type="email" required class="form-control" id="inputEmail"
+               placeholder="Podaj adres e-mail">
+        <div id="emailError" class="text-danger mt-1 fw-bold"></div>
+    </div>
+    <div class="mb-4">
+        <label for="phoneNumber" class="form-label text-white">Telefon kontaktowy:</label>
+        <input type="tel" class="form-control" id="phoneNumber"
+               placeholder="Opcjonalnie możesz podać numer telefonu">
+        <div id="phoneError" class="text-danger mt-1 fw-bold"></div>
+    </div>
+    <div class="mb-4">
+        <label for="inputCat" class="form-label text-white">Kategoria zamówienia:</label>
+        <select class="form-select" id="inputCat">
+            <option selected disabled>Wybierz rodzaj zdjęć</option>
+            <option>Sesja motoryzacyjna</option>
+            <option>Fotografia krajobrazowa</option>
+            <option>Fotografia eventowa</option>
+        </select>
+        <div id="catError" class="text-danger mt-1 fw-bold"></div>
+    </div>
+    <div class="mb-4">
+        <div class="text-white">Pora zdjeć:</div>
+        <input class="form-check-input" type="checkbox" name="checkbox_daynight" value=""
+               id="day_photo">
+        <label class="form-check-label text-white me-5" for="day_photo">Zdjęcia w dzień</label>
+        <input class="form-check-input" type="checkbox" name="checkbox_daynight" value=""
+               id="night_photo">
+        <label class="form-check-label text-white" for="night_photo">Zdjęcia w nocy</label>
+        <div id="boxError" class="text-danger mt-1 fw-bold"></div>
+    </div>
+    <div class="mb-4">
+        <div class="text-white">Zdjęcia na użytek:</div>
+        <input class="form-check-input" type="radio" name="radio" id="priv" value="prywatny">
+        <label class="form-check-label text-white me-5" for="priv">Prywatny</label>
+        <input class="form-check-input" type="radio" name="radio" id="pub" value="komercyjny">
+        <label class="form-check-label text-white" for="pub">Komercyjny</label>
+        <div id="radioError" class="text-danger mt-1 fw-bold"></div>
+    </div>
+    <div class="form-check d-flex align-items-center mb-5">
+        <input type="checkbox" class="form-check-input me-3" required id="buttonCheck">
+        <label class="form-check-label text-white mt-2" for="buttonCheck">Zgadzam się na przesłanie
+            moich danych</label>
+    </div>
+    <button type="submit" class="btn btn-primary me-2">wyŚlij</button>
+    <button type="reset" class="btn btn-primary me-2">Reset</button>
+    <button class="btn btn-primary" onclick="show_storage()">Wyświetl zapisane</button>
+</form>
